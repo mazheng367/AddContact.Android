@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">HelloWorld</string>
+  <string name="action_settings">Settings</string>
+  <string name="getContract">阿达，你点一下这个按钮试试！！！</string>
+  <string name="successMsg">哈哈，成功了！！！</string>
+  <string name="remoteAddr">http://140.143.16.75:8850/api/values</string>
+</resources>
